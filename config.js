@@ -1,9 +1,5 @@
-/*
-  Настройки приложения.
-  URL проекта уже указан. Вставьте сюда публичный Supabase publishable/anon key.
-  Не используйте service_role или sb_secret key в браузере.
-*/
+/* Публичные настройки Supabase. Здесь нельзя размещать sb_secret/service_role ключи. */
 window.BUDGET_CONFIG = {
   supabaseUrl: "https://hxctmmmglttocjwwbppz.supabase.co",
-  supabaseKey: ""
+  supabaseKey: "sb_publishable_r8acsqvhEaeb29Ff6byteA_5WP_wqb2"
 };
